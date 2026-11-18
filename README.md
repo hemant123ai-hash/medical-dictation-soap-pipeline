@@ -149,3 +149,7 @@ soap_pipeline/
 data/sample_dictation.mp3         the provided recording
 outputs/                          transcript, SOAP note, validation report
 ```
+
+## Author
+
+Hemant Sharma: [GitHub](https://github.com/hemant123ai-hash) · [Hugging Face](https://huggingface.co/Hemant0000)
