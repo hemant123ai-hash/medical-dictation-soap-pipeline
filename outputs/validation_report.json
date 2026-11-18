@@ -1,0 +1,18 @@
+{
+  "llm": "llama3.1:8b",
+  "transcript_repetition_loops": [],
+  "subjective_in_objective_check": [
+    {
+      "kept": "no skin changes or deformities",
+      "in": "objective.inspection",
+      "reason": "flagged (LLM classifier: clinician asks 'So no skin changes or deformities there?') but the transcript shows an exam step right before it (\"look at that\")"
+    },
+    {
+      "moved": "full range of motion of both the elbow and hand",
+      "from": "objective.range_of_motion_and_strength",
+      "to": "subjective.history_of_present_illness.other_details",
+      "reason": "no examination step before it in the transcript, so it came from the history + LLM classifier: clinician asks 'are you still able to move that arm your right arm um as well as your hand i am yeah i have full range of motion of both the the elbow and uh hand'"
+    }
+  ],
+  "numbers_not_found_in_transcript": []
+}

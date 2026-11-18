@@ -1,0 +1,145 @@
+{
+  "patient": {
+    "name": "Not documented",
+    "age": "Not documented",
+    "sex": "Not documented",
+    "date_of_service": "Not documented"
+  },
+  "subjective": {
+    "chief_complaint": "Pain on the outside of the right elbow",
+    "history_of_present_illness": {
+      "onset_and_duration": [
+        "several months ago",
+        "getting worse"
+      ],
+      "location_and_radiation": [
+        "outside of the right elbow",
+        "no radiation"
+      ],
+      "quality": [
+        "achy",
+        "sharp"
+      ],
+      "severity": [
+        "about a four",
+        "out of 10"
+      ],
+      "course_over_time": [
+        "getting worse"
+      ],
+      "aggravating_factors": [
+        "repetitive movements at work",
+        "bending the wrist down"
+      ],
+      "relieving_factors": [
+        "resting the elbow"
+      ],
+      "treatments_tried": [
+        "ibuprofen",
+        "topical ointments"
+      ],
+      "associated_symptoms_and_pertinent_negatives": [
+        "no numbness or tingling",
+        "no changes to senses",
+        "no coughing or shortness of breath"
+      ],
+      "functional_impact": [
+        "starting to become an issue at work"
+      ],
+      "other_details": [
+        "right-handed",
+        "no trauma or triggers",
+        "full range of motion of both the elbow and hand"
+      ]
+    },
+    "past_medical_history": [
+      "C-section 17 years ago"
+    ],
+    "past_surgical_history": [
+      "C-section"
+    ],
+    "medications": [
+      "Tylenol",
+      "Advil"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "immunizations": [
+      "up to date"
+    ],
+    "family_history": [
+      "no skeletal or muscular issues",
+      "no neurological issues",
+      "no autoimmune conditions"
+    ],
+    "social_history": [
+      "no smoking",
+      "occasional alcohol use",
+      "no marijuana use"
+    ],
+    "review_of_systems": [
+      "no weight loss",
+      "no fevers or chills",
+      "no fatigue",
+      "no rashes",
+      "no changes to senses",
+      "no coughing or shortness of breath",
+      "no chest pain",
+      "no nausea or vomiting",
+      "no changes to urine",
+      "no memory loss or confusion"
+    ]
+  },
+  "objective": {
+    "vital_signs": [],
+    "inspection": [
+      "no redness or swelling",
+      "no skin changes or deformities"
+    ],
+    "palpation": [
+      "pain at the lateral elbow",
+      "no pain at the medial aspect",
+      "no pain in the forearm or biceps"
+    ],
+    "range_of_motion_and_strength": [],
+    "special_tests_and_provocative_maneuvers": [
+      "pain with wrist extension",
+      "pain with wrist flexion with the elbow in full extension"
+    ],
+    "labs_and_imaging_results": []
+  },
+  "assessment": {
+    "diagnoses": [
+      "lateral epicondylitis (also known as tennis elbow)"
+    ],
+    "clinical_reasoning": [
+      "repetitive strain at work and continuous contraction of the wrist extensor muscle group"
+    ]
+  },
+  "plan": {
+    "investigations": [
+      "no imaging necessary"
+    ],
+    "medications": [
+      "continue taking Tylenol or NSAIDs for pain"
+    ],
+    "therapies_and_referrals": [
+      "physical therapy to increase mobility and strength in the arm"
+    ],
+    "activity_modification_and_self_care": [
+      "activity modifications at work",
+      "use a compression sleeve",
+      "apply ice to the area for pain and swelling"
+    ],
+    "devices_and_supports": [
+      "compression sleeve",
+      "splints"
+    ],
+    "patient_education_and_expected_course": [
+      "should resolve in about six months to two years",
+      "may go away in a couple months with physical therapy and compression and splints"
+    ],
+    "follow_up": []
+  }
+}
